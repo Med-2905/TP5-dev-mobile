@@ -1,4 +1,4 @@
-<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/f70de4ef-d776-4509-a067-72f28b814656" />![main3](https://github.com/user-attachments/assets/fc49260c-5443-4419-b0f1-ea1dbd6af2bf)# TP5-dev-mobile
+# TP5-dev-mobile
 
 
 
@@ -10,14 +10,10 @@ Interface Login
 main activity interface
 
 
-![main1](https://github.com/user-attachments/assets/06d2e921-2bb0-4f78-baf1-104fa840dc08)
-
-
-![main2](https://github.com/user-attachments/assets/de974764-ceb6-4137-b507-ced6834b916c)
 
 
 
-![main3](https://github.com/user-attachments/assets/eeb58bc0-84e9-4d8c-9423-5eedb81c1c24)
 
-
-
+![main1](https://github.com/user-attachments/assets/74a20558-b9a2-475f-b5bc-df6eb185e2f7)
+![main2](https://github.com/user-attachments/assets/d1e92278-8b9d-420f-af3e-5a466b5ed1a9)
+![main3](https://github.com/user-attachments/assets/2c5e8935-6bb5-444c-9ce9-d84cdf89bdcf)
